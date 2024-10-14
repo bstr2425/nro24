@@ -2,3 +2,4 @@ vaja nro
 sprememba
 da vidimo ali sem to js
 neki novega iz ponedeljka
+res je
